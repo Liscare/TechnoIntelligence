@@ -11,77 +11,77 @@ Il y a plusieurs manières de contribuer :
 ## Liste des flux
 Il y a **61 flux**.
 ### Web
-- Blog de David Walsh
-- Blog de Pascal Martin
-- MindsersIT Blog
-- Blog de Marie Comet
-- Blog de Cédric Spalvieri "skwi"
-- Blog de Kévin Dunglas
-- Blog de Maxence Poutord "Maxpou"
-- Blog de Hugo Soltys
-- Geeek
-- De geek à directeur technique
-- Bog de Sébastien Castiel
-- The Mozilla blog
-- Dévellopez (Développement et hébergement Web)
+- Blog de David Walsh 🇬🇧
+- Blog de Pascal Martin 🇫🇷
+- MindsersIT Blog 🇫🇷
+- Blog de Marie Comet 🇫🇷
+- Blog de Cédric Spalvieri "skwi" 🇫🇷
+- Blog de Kévin Dunglas 🇬🇧
+- Blog de Maxence Poutord "Maxpou" 🇬🇧
+- Blog de Hugo Soltys 🇬🇧
+- Geeek 🇫🇷
+- De geek à directeur technique 🇫🇷
+- Blog de Sébastien Castiel 🇬🇧
+- The Mozilla blog 🇬🇧
+- Dévellopez (Développement et hébergement Web) 🇫🇷
 ### Secu
-- Dark Reading
-- Threatpost
-- Naked security
-- Quick Heal Blog
-- Google Online Security Blog
-- Cisco Blogs
-- The Hacker News
-- Blog de Acunetix
-- TechRepublic (Security)
-- ZDNet (Security)
-- Kerbs on Security
-- Graham Cluley
-- Intrinsec
-- Silicon (Security)
-- Le décodeur suisse de cybersécurité
-- Usine Digitale (Cybersécurité)
-- Le Net Expert
+- Dark Reading 🇬🇧
+- Threatpost 🇬🇧
+- Naked security 🇬🇧
+- Quick Heal Blog 🇬🇧
+- Google Online Security Blog 🇬🇧
+- Cisco Blogs 🇬🇧
+- The Hacker News 🇬🇧
+- Blog de Acunetix 🇬🇧
+- TechRepublic (Security) 🇬🇧
+- ZDNet (Security) 🇬🇧
+- Kerbs on Security 🇬🇧
+- Graham Cluley 🇬🇧
+- Intrinsec 🇬🇧
+- Silicon (Security) 🇫🇷
+- Le décodeur suisse de cybersécurité 🇫🇷
+- Usine Digitale (Cybersécurité) 🇫🇷
+- Le Net Expert 🇫🇷
 ### Autre
-- Pixel de tracking
+- Pixel de tracking 🇫🇷
 ### Mix
-- Journal du hacker
-- InfoWorld
+- Journal du hacker 🇫🇷
+- InfoWorld 🇬🇧
 ### POO
-- Practical Programming
-- InfoWorld (Java)
-- Baeldung
-- Développez (Programmation)
+- Practical Programming 🇫🇷
+- InfoWorld (Java) 🇬🇧
+- Baeldung 🇬🇧
+- Développez (Programmation) 🇫🇷
 ### Réseau
-- Blog de Stéphane Bortzmeyer
-- Blog de Vincent Bernat
+- Blog de Stéphane Bortzmeyer 🇫🇷
+- Blog de Vincent Bernat 🇫🇷
 ### Général
-- Artisan Développeur
-- Blog de Boris Schapira
-- Blog de Seboss666
-- Next INpact
-- Blog de Scott Hanselman
-- Blog de Soft32
-- GeeksfroGeeks
-- Blog de Je suis un dev
-- Developpez (général)
-- Gov Tech
-- 01net (technos)
+- Artisan Développeur 🇫🇷
+- Blog de Boris Schapira 🇬🇧
+- Blog de Seboss666 🇫🇷
+- Next INpact 🇫🇷
+- Blog de Scott Hanselman 🇬🇧
+- Blog de Soft32 🇬🇧
+- GeeksfroGeeks 🇬🇧
+- Blog de Je suis un dev 🇫🇷
+- Developpez (général) 🇫🇷
+- Gov Tech 🇬🇧
+- 01net (technos) 🇫🇷
 #### Libre
-- Linux.com
-- LinuxFr.org
+- Linux.com 🇬🇧
+- LinuxFr.org 🇫🇷
 ### Devops
-- devops-life.com
-- damyr.fr
+- devops-life.com 🇫🇷
+- damyr.fr 🇫🇷
 ### Podcast
-- Captain Web
+- Captain Web 🇫🇷
 ### Hardware
-- INpact Hardware
+- INpact Hardware 🇫🇷
 ### GrandPublic
-- JDN
-- Le Monde Pixel
-- CanardPC.com
-- Presse-citron
+- JDN 🇫🇷
+- Le Monde Pixel 🇫🇷
+- CanardPC.com 🇫🇷
+- Presse-citron 🇫🇷
 ### Science
-- Techno-science.net
-- 01net.com (Science et Recherche)
+- Techno-science.net 🇫🇷
+- 01net.com (Science et Recherche) 🇫🇷

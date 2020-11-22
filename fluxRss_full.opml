@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Veille Technologique</title>
+        <dateModified>dim. nov. 22 15:22:29 2020</dateModified>
+    </head>
+    <body>
+        <outline text="Web">
+            <outline text="David Walsh Blog" type="rss" htmlUrl="https://davidwalsh.name" xmlUrl="https://davidwalsh.name/feed"/>
+            <outline text="Pascal MARTIN : DevOps, Lead dev, Web &amp; PHP" type="rss" htmlUrl="https://blog.pascal-martin.fr/" xmlUrl="https://blog.pascal-martin.fr/index.xml"/>
+            <outline text="MindsersIT Blog" type="rss" htmlUrl="https://blog.nathanaelcherrier.com/" xmlUrl="https://blog.nathanaelcherrier.com/rss/"/>
+            <outline text="Marie Comet" type="rss" htmlUrl="https://mariecomet.fr" xmlUrl="https://mariecomet.fr/feed/"/>
+            <outline text="Cédric &quot;skwi&quot; Spalvieri" type="rss" htmlUrl="https://skwi.fr/blog/" xmlUrl="https://skwi.fr/blog/feed.xml"/>
+            <outline text="Kévin Dunglas" type="rss" htmlUrl="https://dunglas.fr" xmlUrl="https://dunglas.fr/feed/"/>
+            <outline text="Maxence Poutord • Maxpou Blog (EN)" type="rss" htmlUrl="https://www.maxpou.fr" xmlUrl="https://www.maxpou.fr/rss-en.xml"/>
+            <outline text="Hugo Soltys - Symfony developer" type="rss" htmlUrl="http://hugo-soltys.com/" xmlUrl="http://hugo-soltys.com/rss/articles.xml"/>
+            <outline text="Geeek" type="rss" htmlUrl="https://www.geeek.org/" xmlUrl="https://www.geeek.org/rss/"/>
+            <outline text="De geek à directeur technique" type="rss" htmlUrl="https://www.geek-directeur-technique.com" xmlUrl="https://www.geek-directeur-technique.com/feed"/>
+            <outline text="Sébastien Castiel" type="rss" htmlUrl="https://scastiel.dev" xmlUrl="https://scastiel.dev/feed/feed.xml"/>
+            <outline text="The Mozilla Blog" type="rss" htmlUrl="https://blog.mozilla.org" xmlUrl="https://blog.mozilla.org/feed/"/>
+            <outline text="Flux Développement et hébergement Web Developpez" type="rss" htmlUrl="http://web.developpez.com/index/rss" xmlUrl="https://web.developpez.com/rss.php"/>
+        </outline>
+        <outline text="Secu">
+            <outline text="Dark Reading:" type="rss" htmlUrl="https://www.darkreading.com" xmlUrl="https://www.darkreading.com/rss_simple.asp"/>
+            <outline text="Threatpost" type="rss" htmlUrl="https://threatpost.com" xmlUrl="https://threatpost.com/feed/"/>
+            <outline text="Naked Security" type="rss" htmlUrl="https://nakedsecurity.sophos.com" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
+            <outline text="Quick Heal Blog | Latest computer security news, tips, and advice" type="rss" htmlUrl="https://blogs.quickheal.com" xmlUrl="https://blogs.quickheal.com/feed/"/>
+            <outline text="Google Online Security Blog" type="rss" htmlUrl="http://security.googleblog.com/" xmlUrl="https://security.googleblog.com/feeds/posts/default"/>
+            <outline text="Cisco Blogs" type="rss" htmlUrl="https://blogs.cisco.com" xmlUrl="https://blogs.cisco.com/feed"/>
+            <outline text="The Hacker News" type="rss" htmlUrl="https://thehackernews.com/" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
+            <outline text="Web Security Blog – Acunetix" type="rss" htmlUrl="https://www.acunetix.com" xmlUrl="https://www.acunetix.com/blog/rss"/>
+            <outline text="Security on TechRepublic" type="rss" htmlUrl="https://www.techrepublic.com/" xmlUrl="https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds"/>
+            <outline text="ZDNet | security RSS" type="rss" htmlUrl="https://www.zdnet.com/" xmlUrl="https://www.zdnet.com/blog/security/rss.xml"/>
+            <outline text="Krebs on Security" type="rss" htmlUrl="https://krebsonsecurity.com" xmlUrl="https://krebsonsecurity.com/feed/"/>
+            <outline text="Graham Cluley" type="rss" htmlUrl="https://grahamcluley.com" xmlUrl="https://grahamcluley.com/feed/"/>
+        </outline>
+        <outline text="Autre">
+            <outline text="Pixel de tracking" type="rss" htmlUrl="https://www.pixeldetracking.com/fr/google-tag-manager-server-side-tagging" xmlUrl="https://www.pixeldetracking.com/fr/.atom"/>
+        </outline>
+        <outline text="POO">
+            <outline text="Practical Programming" type="rss" htmlUrl="https://practicalprogramming.net" xmlUrl="https://practicalprogramming.net/feed/"/>
+            <outline text="InfoWorld Java" type="rss" htmlUrl="https://www.infoworld.com" xmlUrl="http://www.infoworld.com/category/java/index.rss"/>
+            <outline text="Baeldung" type="rss" htmlUrl="https://www.baeldung.com" xmlUrl="https://feeds.feedblitz.com/baeldung&amp;x=1"/>
+            <outline text="Flux Programmation Developpez" type="rss" htmlUrl="http://programmation.developpez.com/index/rss" xmlUrl="https://programmation.developpez.com/rss.php"/>
+        </outline>
+        <outline text="Mix">
+            <outline text="Journal du hacker" type="rss" htmlUrl="https://www.journalduhacker.net/" xmlUrl="https://www.journalduhacker.net/rss"/>
+            <outline text="InfoWorld" type="rss" htmlUrl="https://www.infoworld.com" xmlUrl="http://www.infoworld.com/index.rss"/>
+        </outline>
+        <outline text="Réseau">
+            <outline text="Blog de Stéphane Bortzmeyer" type="rss" htmlUrl="https://www.bortzmeyer.org" xmlUrl="https://www.bortzmeyer.org/feed"/>
+            <outline text="Vincent Bernat" type="rss" htmlUrl="https://vincent.bernat.ch/fr" xmlUrl="https://vincent.bernat.ch/fr/blog/atom.xml"/>
+        </outline>
+        <outline text="Général">
+            <outline text="Artisan Développeur" type="rss" htmlUrl="https://artisandeveloppeur.fr" xmlUrl="https://artisandeveloppeur.fr/feed/"/>
+            <outline text="Boris Schapira (Web, articles en français)" type="rss" htmlUrl="https://boris.schapira.dev/web/feed.xml" xmlUrl="https://boris.schapira.dev/web/feed.xml"/>
+            <outline text="Le blog de Seboss666" type="rss" htmlUrl="https://blog.seboss666.info" xmlUrl="https://blog.seboss666.info/feed/"/>
+            <outline text="Next INpact" type="rss" htmlUrl="https://www.nextinpact.com" xmlUrl="https://www.nextinpact.com/rss/nobrief-noih.xml"/>
+            <outline text="Scott Hanselman's Blog" type="rss" htmlUrl="https://www.hanselman.com/blog/" xmlUrl="http://feeds.hanselman.com/ScottHanselman"/>
+            <outline text="Soft32 Blog" type="rss" htmlUrl="https://www.soft32.com/blog" xmlUrl="https://www.soft32.com/blog/rss"/>
+            <outline text="GeeksforGeeks" type="rss" htmlUrl="https://www.geeksforgeeks.org" xmlUrl="https://www.geeksforgeeks.org/feed/"/>
+            <outline text="Je suis un dev" type="rss" htmlUrl="https://www.jesuisundev.com" xmlUrl="https://www.jesuisundev.com/feed/"/>
+            <outline text="Libre">
+                <outline text="LinuxFr.org : les dépêches" type="rss" htmlUrl="https://linuxfr.org/news" xmlUrl="https://linuxfr.org/news.atom"/>
+                <outline text="Linux.com" type="rss" htmlUrl="https://www.linux.com" xmlUrl="https://www.linux.com/feed/"/>
+            </outline>
+            <outline text="Flux général Developpez" type="rss" htmlUrl="http://www.developpez.com/index/rss" xmlUrl="https://www.developpez.com/rss.php"/>
+            <outline text="Gov tech" type="rss" htmlUrl="http://www.govtech.com" xmlUrl="https://www.govtech.com/rss"/>
+        </outline>
+        <outline text="Devops">
+            <outline text="DevOps life" type="rss" htmlUrl="https://devops-life.com/" xmlUrl="https://devops-life.com/feed.xml"/>
+            <outline text="Damy.R" type="rss" htmlUrl="https://www.damyr.fr/" xmlUrl="https://www.damyr.fr/index.xml"/>
+        </outline>
+        <outline text="Podcast">
+            <outline text="Captain Web" type="rss" htmlUrl="http://www.captainweb.net" xmlUrl="http://www.captainweb.net/feed/"/>
+        </outline>
+        <outline text="Hardware">
+            <outline text="INpact Hardware" type="rss" htmlUrl="https://www.inpact-hardware.com" xmlUrl="https://www.inpact-hardware.com/rss/news.xml"/>
+        </outline>
+        <outline text="GrandPublic">
+            <outline text="JDN : Derniers contenus" type="rss" htmlUrl="https://www.journaldunet.com" xmlUrl="https://www.journaldunet.com/rss/"/>
+            <outline text="Pixels : Le Monde.fr." type="rss" htmlUrl="https://www.lemonde.fr/pixels/rss_full.xml" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
+            <outline text="CanardPC.com" type="rss" htmlUrl="https://www.canardpc.com/" xmlUrl="https://www.canardpc.com/rss.xml"/>
+        </outline>
+    </body>
+</opml>

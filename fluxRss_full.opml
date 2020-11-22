@@ -82,5 +82,9 @@
             <outline text="Pixels : Le Monde.fr." type="rss" htmlUrl="https://www.lemonde.fr/pixels/rss_full.xml" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
             <outline text="CanardPC.com" type="rss" htmlUrl="https://www.canardpc.com/" xmlUrl="https://www.canardpc.com/rss.xml"/>
         </outline>
+        <outline text="Science">
+            <outline text="Techno-Science.net" type="rss" htmlUrl="https://www.techno-science.net" xmlUrl="https://www.techno-science.net/include/news.xml"/>
+            <outline text="Science, recherche - 01net" type="rss" htmlUrl="https://www.01net.com/actualites/science-recherche/" xmlUrl="https://www.01net.com/rss/actualites/science-recherche/"/>
+        </outline>
     </body>
 </opml>

@@ -33,6 +33,12 @@
             <outline text="ZDNet | security RSS" type="rss" htmlUrl="https://www.zdnet.com/" xmlUrl="https://www.zdnet.com/blog/security/rss.xml"/>
             <outline text="Krebs on Security" type="rss" htmlUrl="https://krebsonsecurity.com" xmlUrl="https://krebsonsecurity.com/feed/"/>
             <outline text="Graham Cluley" type="rss" htmlUrl="https://grahamcluley.com" xmlUrl="https://grahamcluley.com/feed/"/>
+            <outline text="Cybersécurité – INTRINSEC" type="rss" htmlUrl="https://www.intrinsec.com" xmlUrl="https://www.intrinsec.com/feed/"/>
+            <outline text="Sécurité – Silicon" type="rss" htmlUrl="https://www.silicon.fr" xmlUrl="https://www.silicon.fr/actualites/security/feed"/>
+            <outline text="Le décodeur suisse de cybersécurité" type="rss" htmlUrl="https://www.ledecodeur.ch" xmlUrl="https://www.ledecodeur.ch/feed/"/>
+            <outline text="Secur'id : cybersécurité industrielle, web, logiciel libre (securid)" type="rss" htmlUrl="https://securid.novaclic.com" xmlUrl="https://securid.novaclic.com/feed"/>
+            <outline text="Usine Digitale - Cybersécurité" type="rss" htmlUrl="https://www.usine-digitale.fr/cybersecurite/rss" xmlUrl="https://www.usine-digitale.fr/cybersecurite/rss"/>
+            <outline text="Le Net Expert – Expert Informatique mise en conformité RGPD – Consultant et Formateur RGPD Mises en conformité – Expert Informatique Cybercriminalité – Cybercriminalité, Protection des Données Personnelles – Formateur cyber, Formateur rgpd, recherche de preuves téléphones, recherche de preuves ordinateurs, Expert judiciaire cybersécurité, formateur mise en conformité RGPD, formateur mise en conformité règlement européen, formateur mise en conformité protection des données personnelles, expert données personnelles, formations CNIL, formations données personnelles, déclarations CNIL, Cavaillon, Expert informatique Avignon, Expert informatique Vaucluse, Expert informatique Aix en Provence, Expert informatique Montpellier, Expert informatique Bordeaux, Expert informatique Marseille, Expert informatique Limoges, Expert informatique Paris" type="rss" htmlUrl="https://www.lenetexpert.fr" xmlUrl="https://www.lenetexpert.fr/feed/"/>
         </outline>
         <outline text="Autre">
             <outline text="Pixel de tracking" type="rss" htmlUrl="https://www.pixeldetracking.com/fr/google-tag-manager-server-side-tagging" xmlUrl="https://www.pixeldetracking.com/fr/.atom"/>
@@ -66,6 +72,7 @@
             </outline>
             <outline text="Flux général Developpez" type="rss" htmlUrl="http://www.developpez.com/index/rss" xmlUrl="https://www.developpez.com/rss.php"/>
             <outline text="Gov tech" type="rss" htmlUrl="http://www.govtech.com" xmlUrl="https://www.govtech.com/rss"/>
+            <outline text="Technos - 01net" type="rss" htmlUrl="https://www.01net.com/actualites/technos/" xmlUrl="https://www.01net.com/rss/actualites/technos/"/>
         </outline>
         <outline text="Devops">
             <outline text="DevOps life" type="rss" htmlUrl="https://devops-life.com/" xmlUrl="https://devops-life.com/feed.xml"/>
@@ -81,6 +88,7 @@
             <outline text="JDN : Derniers contenus" type="rss" htmlUrl="https://www.journaldunet.com" xmlUrl="https://www.journaldunet.com/rss/"/>
             <outline text="Pixels : Le Monde.fr." type="rss" htmlUrl="https://www.lemonde.fr/pixels/rss_full.xml" xmlUrl="https://www.lemonde.fr/pixels/rss_full.xml"/>
             <outline text="CanardPC.com" type="rss" htmlUrl="https://www.canardpc.com/" xmlUrl="https://www.canardpc.com/rss.xml"/>
+            <outline text="Presse-citron" type="rss" htmlUrl="https://www.presse-citron.net" xmlUrl="https://www.presse-citron.net/feed/"/>
         </outline>
         <outline text="Science">
             <outline text="Techno-Science.net" type="rss" htmlUrl="https://www.techno-science.net" xmlUrl="https://www.techno-science.net/include/news.xml"/>

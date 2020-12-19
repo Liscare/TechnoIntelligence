@@ -24,6 +24,8 @@ Il y a **61 flux**.
 - Blog de Sébastien Castiel 🇬🇧
 - The Mozilla blog 🇬🇧
 - Dévellopez (Développement et hébergement Web) 🇫🇷
+- Meyer web 🇬🇧
+- Adactio 🇬🇧
 ### Secu
 - Dark Reading 🇬🇧
 - Threatpost 🇬🇧
@@ -67,6 +69,7 @@ Il y a **61 flux**.
 - Developpez (général) 🇫🇷
 - Gov Tech 🇬🇧
 - 01net (technos) 🇫🇷
+- Blog de Christophe Lauer 🇫🇷
 #### Libre
 - Linux.com 🇬🇧
 - LinuxFr.org 🇫🇷

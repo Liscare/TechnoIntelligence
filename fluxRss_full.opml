@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>Veille Technologique</title>
-        <dateModified>dim. nov. 22 15:22:29 2020</dateModified>
+        <dateModified>sam. déc. 19 21:31:40 2020</dateModified>
     </head>
     <body>
         <outline text="Web">
@@ -19,6 +19,8 @@
             <outline text="Sébastien Castiel" type="rss" htmlUrl="https://scastiel.dev" xmlUrl="https://scastiel.dev/feed/feed.xml"/>
             <outline text="The Mozilla Blog" type="rss" htmlUrl="https://blog.mozilla.org" xmlUrl="https://blog.mozilla.org/feed/"/>
             <outline text="Flux Développement et hébergement Web Developpez" type="rss" htmlUrl="http://web.developpez.com/index/rss" xmlUrl="https://web.developpez.com/rss.php"/>
+            <outline text="Thoughts From Eric" type="rss" htmlUrl="https://meyerweb.com/eric/thoughts" xmlUrl="https://meyerweb.com/rss"/>
+            <outline text="Adactio: Journal" type="rss" htmlUrl="https://adactio.com/journal/" xmlUrl="https://adactio.com/journal/rss"/>
         </outline>
         <outline text="Secu">
             <outline text="Dark Reading:" type="rss" htmlUrl="https://www.darkreading.com" xmlUrl="https://www.darkreading.com/rss_simple.asp"/>
@@ -41,7 +43,7 @@
             <outline text="Le Net Expert – Expert Informatique mise en conformité RGPD – Consultant et Formateur RGPD Mises en conformité – Expert Informatique Cybercriminalité – Cybercriminalité, Protection des Données Personnelles – Formateur cyber, Formateur rgpd, recherche de preuves téléphones, recherche de preuves ordinateurs, Expert judiciaire cybersécurité, formateur mise en conformité RGPD, formateur mise en conformité règlement européen, formateur mise en conformité protection des données personnelles, expert données personnelles, formations CNIL, formations données personnelles, déclarations CNIL, Cavaillon, Expert informatique Avignon, Expert informatique Vaucluse, Expert informatique Aix en Provence, Expert informatique Montpellier, Expert informatique Bordeaux, Expert informatique Marseille, Expert informatique Limoges, Expert informatique Paris" type="rss" htmlUrl="https://www.lenetexpert.fr" xmlUrl="https://www.lenetexpert.fr/feed/"/>
         </outline>
         <outline text="Autre">
-            <outline text="Pixel de tracking" type="rss" htmlUrl="https://www.pixeldetracking.com/fr/google-tag-manager-server-side-tagging" xmlUrl="https://www.pixeldetracking.com/fr/.atom"/>
+            <outline text="Pixel de tracking" type="rss" htmlUrl="https://www.pixeldetracking.com/fr/vie-privee-le-match-des-navigateurs-ios" xmlUrl="https://www.pixeldetracking.com/fr/.atom"/>
         </outline>
         <outline text="POO">
             <outline text="Practical Programming" type="rss" htmlUrl="https://practicalprogramming.net" xmlUrl="https://practicalprogramming.net/feed/"/>
@@ -73,6 +75,7 @@
             <outline text="Flux général Developpez" type="rss" htmlUrl="http://www.developpez.com/index/rss" xmlUrl="https://www.developpez.com/rss.php"/>
             <outline text="Gov tech" type="rss" htmlUrl="http://www.govtech.com" xmlUrl="https://www.govtech.com/rss"/>
             <outline text="Technos - 01net" type="rss" htmlUrl="https://www.01net.com/actualites/technos/" xmlUrl="https://www.01net.com/rss/actualites/technos/"/>
+            <outline text="Christophe Lauer" type="rss" htmlUrl="http://www.clauer.fr" xmlUrl="http://www.clauer.fr/feed/"/>
         </outline>
         <outline text="Devops">
             <outline text="DevOps life" type="rss" htmlUrl="https://devops-life.com/" xmlUrl="https://devops-life.com/feed.xml"/>
